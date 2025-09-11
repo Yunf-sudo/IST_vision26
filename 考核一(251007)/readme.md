@@ -1,3 +1,4 @@
+# 初心高于胜负，成长胜于输赢
 # 考试安排
 
 ## 考核时间
@@ -35,4 +36,6 @@
 编程学习网站---[菜鸟教程](https://www.runoob.com/ "菜鸟")  
 YOLO官网---[Ultralytics](https://docs.ultralytics.com/zh/ "yolo")  
 ROS学习网站---[鱼香ROS](https://fishros.com/ "鱼香ros")
+
+![前哨站](p1.png "前哨")
  
