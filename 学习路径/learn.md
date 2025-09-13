@@ -63,7 +63,7 @@ opencv
 ## 线性代数
 
 在使用雷达对目标进行定位时，需要用到大量的线性代数知识将视觉相机的像素坐标变化到实际坐标中
-可以看看3B1B的视频 [3B1B线性代数](https://www.bilibili.com/video/BV1ys411472E/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f5d67b6263fc5e307cc830f79e320af5)。
+可以看看 [3B1B线性代数](https://www.bilibili.com/video/BV1ys411472E/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f5d67b6263fc5e307cc830f79e320af5)。
 
 ## cpp和python
 
