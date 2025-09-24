@@ -6,6 +6,15 @@ opencv
 
 
 # 自瞄
+## 学习要求
+
+自瞄部分建议重点学习 C++ 语言和 OpenCV 库。C++ 是自瞄算法开发的基础语言，OpenCV 是常用的计算机视觉库，能够帮助你实现目标检测、图像处理等核心功能。
+
+建议：
+- 先掌握 C++ 基础语法和面向对象编程思想
+- 学习 OpenCV 的基本用法，包括图像读取、处理、特征提取等
+- 多做项目实践，提升实际动手能力
+
 
 # 能量机关
 
@@ -63,7 +72,7 @@ opencv
 ## 线性代数
 
 在使用雷达对目标进行定位时，需要用到大量的线性代数知识将视觉相机的像素坐标变化到实际坐标中
-可以看看3B1B的视频 [3B1B线性代数](https://www.bilibili.com/video/BV1ys411472E/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f5d67b6263fc5e307cc830f79e320af5)。
+可以看看 [3B1B线性代数](https://www.bilibili.com/video/BV1ys411472E/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f5d67b6263fc5e307cc830f79e320af5)。
 
 ## cpp和python
 
