@@ -18,4 +18,13 @@ _9.15 ~ 9.20_
 | :---: | :---: |
 |![apf](images/apf_demo.png) |![B_spline](images/b_spline_demo.png) |
 
+_9.20 ~ 9.29_
+
+##### 成功复现 FAST_LIO and Point_LIO
+
+![FAST_LIO](images/fast_lio.png)
+
+_9.29 ~ 10.9_
+
+##### 成功复现 IST_vision code and sp_vision code 
 
